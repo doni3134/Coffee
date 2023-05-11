@@ -30,9 +30,15 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 </div>
 
 # 팀소개
+<div align=center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doni3134&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)](https://github.com/doni3134/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)](https://github.com/doni3134/github-readme-stats)
 
 - 김경돈 김경목 이아진 장연서
+
+
+</div>
+
 
