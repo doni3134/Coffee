@@ -1,8 +1,11 @@
 # Coffee Team 필독사항
+
 각자 개인 branch 생성후 작업 진행!!
 본인 branch 에서 작업후 commit, push 한 뒤에 팀장한테 merge요청!!
+팀장이 merge 승인한걸 확인하면 local branch 삭제
+브랜치를 삭제하는 이유는 원본 저장소에 Merge가 완료되면 작업공간이 더이상 필요 없으므로 삭제한다.
 
-pull -> git switch [개인브랜치] -> 작업 -> add, commit -> git push origin [개인브랜치]
+pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜치] -> 작업 -> add, commit -> git push origin [사용할 개인브랜치]
 -git push하는 과정에서 오류가 뜰 경우 origin +main으로 해볼것.
 
 # OPEN API SITE
