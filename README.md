@@ -26,6 +26,7 @@ pull -> git switch [개인브랜치] -> 작업 -> add, commit -> git push origin
 </div>
 
 # 팀소개
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)](https://github.com/doni3134/github-readme-stats)
 
 - 김경돈 김경목 이아진 장연서
 
