@@ -11,7 +11,7 @@ pull -> git switch [개인브랜치] -> 작업 -> add, commit -> git push origin
 - 부산 공공데이터 https://data.busan.go.kr/index.nm;jsessionid=2BE87469E6B9D2DEEBB25BA45DAF2C8D
 - KAKAO OPEN API https://developers.kakao.com/
 
-# Tools !
+# Studying !
 <div align=center>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
