@@ -22,6 +22,7 @@ pull -> git switch [개인브랜치] -> 작업 -> add, commit -> git push origin
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   
 
 </div>
