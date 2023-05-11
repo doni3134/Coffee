@@ -1,7 +1,7 @@
 # Coffee Team 필독사항
 
 각자 개인 branch 생성후 작업 진행!!
-본인 branch 에서 작업후 commit, push 한 뒤에 팀장한테 merge요청!!
+본인 branch 에서 작업후 커밋, push 한 뒤에 팀장한테 merge요청!!
 팀장이 merge 승인한걸 확인하면 local branch 삭제
 브랜치를 삭제하는 이유는 원본 저장소에 Merge가 완료되면 작업공간이 더이상 필요 없으므로 삭제한다.
 
