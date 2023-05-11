@@ -36,7 +36,7 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)
 
-- 김경돈 김경목 이아진 장연서
+ 김경돈 김경목 이아진 장연서
 
 
 </div>
