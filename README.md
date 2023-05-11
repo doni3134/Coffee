@@ -16,7 +16,7 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 # Tools
 <div align=center>
-  Studying !
+  === Studying !
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
