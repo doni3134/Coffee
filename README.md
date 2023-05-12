@@ -10,10 +10,14 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 -git push하는 과정에서 오류가 뜰 경우 origin +main으로 해볼것.
 
 ```
- $git pull origin main
- $git add .
- $git commit -m " 커밋내용 "
- $git pull origin 개인브랜치명
+ $ git pull origin main
+ $ git add .
+ $ git commit -m " 커밋내용 "
+ $ git push origin [branch name]
+ 
+ push error시에 바꿔봐야 할 코드
+ $ git push origin +[branch name]
+ 
 ```
 
 
