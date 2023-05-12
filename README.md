@@ -8,6 +8,7 @@
 pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜치] -> 작업 -> add, commit -> git push origin [사용할 개인브랜치]
 -git push하는 과정에서 오류가 뜰 경우 origin +main으로 해볼것.
 
+
 # OPEN API SITE
 
 - 공공데이터 포털 https://www.data.go.kr/
@@ -36,7 +37,10 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)
 
- 김경돈 김경목 이아진 장연서
+ 김경돈 : JS, API, HTML ,CSS
+ 김경목 : DB, API, Erwin, HTML ,CSS
+ 이아진 : JS, API, HTML ,CSS
+ 장연서 : JS, API, HTML, CSS
 
 
 </div>
