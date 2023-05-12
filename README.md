@@ -38,10 +38,10 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)
 
 </div>
-- 김경돈 : JS, API, HTML ,CSS
-- 김경목 : DB, API, Erwin, HTML ,CSS
-- 이아진 : JS, API, HTML ,CSS
-- 장연서 : JS, API, HTML, CSS
+#### 김경돈 : JS, API, HTML ,CSS
+#### 김경목 : DB, API, Erwin, HTML ,CSS
+#### 이아진 : JS, API, HTML ,CSS
+#### 장연서 : JS, API, HTML, CSS
 
 
 
