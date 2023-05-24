@@ -44,7 +44,6 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
-# 팀소개
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doni3134&show_icons=true&theme=radical)
@@ -53,12 +52,13 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 </div>
 
-## 팀원
 
-#### 김경돈 : JS, API, HTML ,CSS
-#### 김경목 : DB, API, Erwin, HTML ,CSS
-#### 이아진 : JS, API, HTML ,CSS
-#### 장연서 : JS, API, HTML, CSS
+## 팀소개
+
+#### 팀장 : 김경돈  JS, API, HTML ,CSS
+#### 팀원 : 김경목  DB, API, Erwin, HTML ,CSS
+#### 팀원 : 이아진  JS, API, HTML ,CSS
+#### 팀원 : 장연서  JS, API, HTML, CSS
 
 
 
