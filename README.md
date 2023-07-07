@@ -31,7 +31,6 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 # Tools
 <div align=center>
-  <h1>Studying !</h1>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -45,14 +44,28 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 </div>
 
 
-
-
 ## 팀소개
 
 #### 팀장 : 김경돈  JS, API, HTML ,CSS
 #### 팀원 : 김경목  DB, API, Erwin, HTML ,CSS
 #### 팀원 : 이아진  JS, API, HTML ,CSS
 #### 팀원 : 장연서  JS, API, HTML, CSS
+
+✔개발후기
+
+오픈API를 정말 처음 접해봤다. 오픈API를 사용하기 위해 정말 많은 시도를 했고, 그놈의 CORS 오류가 뭔지..
+
+프로젝트를 시작함과 동시에 접하게된 CORS오류가 우리 팀의 발목을 3일동안 붙잡았던 기억이 남는다.
+
+해당 오류를 해결하기 위해 도메인구입, github.io사용, Node.js 이 세가지 방법 역시 우리는 처음 사용하는 것이었고
+
+이중 도메인 구입을 최후의 보루로 사용하자는 회의끝에 3일째 되던날 팀원 한명이 fetch함수를 사용했더니 CORS오류가 해결되었다 라는 말을 알렸다.
+
+공공API나 카카오API 등을 처음 접하는 우리로서는 가이드라인대로 시도했는데도 오류가 뜨는 이슈 때문에 참 많이 힘들었지만
+
+이런일을 한번 겪어보니 API 사용에 대한 두려움이 사라지게 되었다.
+
+프로젝트 진행기간의 반을 CORS오류 해결에 사용해서 결과물이 썩 괜찮지는 않지만 앞으로 이런 오류를 겪을 경우에 좀더 유연한 대처를 할 수 있지 않을까 한다. 
 
 
 
