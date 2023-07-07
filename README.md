@@ -44,13 +44,7 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doni3134&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)
-
-</div>
 
 
 ## 팀소개
